@@ -3,7 +3,10 @@
 
 Overview
 
-This project analyzes an online retail dataset using Excel and Power BI. It focuses on data cleaning, transformation, and building an interactive dashboard to generate meaningful business insights. The dataset is sourced from the UCI Machine Learning Repository. The dataset contains transactional records of a UK-based online retail business from December 2010 to December 2011. The company sells unique gift items, and many customers are wholesalers, leading to high-volume and repeat purchases.
+This project analyzes an online retail dataset using Excel and Power BI. It focuses on data cleaning, transformation, and building an interactive dashboard to generate meaningful business insights. 
+
+The dataset contains transactional records of a UK-based online retail business from December 2010 to December 2011. The company sells unique gift items, and many customers are wholesalers, leading to high-volume and repeat purchases. The dataset is sourced from the UCI Machine Learning Repository. 
+
 
 Objectives
 
